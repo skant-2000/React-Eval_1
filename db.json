@@ -1,0 +1,44 @@
+{
+    "cars": [
+        {
+            "id": 1,
+            "name": "Tata Nano",
+            "type": "Mini",
+            "year": "2009",
+            "price": 220000,
+            "image": "url(https://imgd.aeplcdn.com/1200x900/cw/ec/10441/Tata-Nano-Exterior-118090.jpg?wm=0&q=85)"
+        },
+        {
+            "id": 2,
+            "name": "Tata Manza",
+            "type": "SUV",
+            "year": "2013",
+            "price": 430000,
+            "image": "url(https://stimg.cardekho.com/images/car-images/large/Tata/Tata-Manza/dew-white.jpg?tr=h-48)"
+        },
+        {
+            "id": 3,
+            "name": "Toyota Corolla",
+            "type": "Sedan",
+            "year": "2017",
+            "price": 1900000,
+            "image": "url(https://www.seegertoyota.com/static/dealer-12152/MY20_Corolla_L_tcom_0209_001_DS_Front_7_8.png)"
+        },
+        {
+            "id": 4,
+            "name": "BMW x3",
+            "type": "SUV",
+            "year": "2013",
+            "price": 4600000,
+            "image": "url(https://imgd.aeplcdn.com/1200x900/cw/ec/32888/BMW-X3-Exterior-125761.jpg?wm=0&q=85)"
+        },
+        {
+            "id": 5,
+            "name": "Mercedes g G Wegan",
+            "type": "SUV",
+            "year": "2014",
+            "price": 3800000,
+            "image": "url(https://images.carandbike.com/car-images/large/mercedes-benz/g-class/mercedes-benz-g-class.jpg?v=3)"
+        }
+    ]
+}
